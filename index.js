@@ -5,3 +5,6 @@ common.hello();
 
 import es from './es.js';
 es.hello();
+
+import fs from 'fs';
+fs.writeFileSync('test.txt', 'Hello file!!!');
