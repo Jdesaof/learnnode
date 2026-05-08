@@ -1,1 +1,1 @@
-import './modules/es.js'
+console.log('Hello Vite');
